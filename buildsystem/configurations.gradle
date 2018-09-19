@@ -1,0 +1,9 @@
+ext {
+    android = [
+            buildToolsVersion: "26.0.2",
+            minSdkVersion    : 21,
+            targetSdkVersion : 26,
+            compileSdkVersion: 26
+    ]
+
+}
