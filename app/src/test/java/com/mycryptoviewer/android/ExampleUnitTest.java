@@ -1,4 +1,4 @@
-package com.mycryptoviewer.mycryptoviewer;
+package com.mycryptoviewer.android;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package com.mycryptoviewer.mycryptoviewer;
+package com.mycryptoviewer.android;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
